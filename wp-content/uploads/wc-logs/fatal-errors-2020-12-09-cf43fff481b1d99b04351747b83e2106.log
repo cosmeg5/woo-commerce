@@ -1,0 +1,78 @@
+2020-12-09T13:32:48+00:00 CRITICAL syntax error, unexpected token ")", em C:\xampp\htdocs\handel\wp-content\themes\handel\functions.php, na linha 3
+
+2020-12-09T13:35:02+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_action(), 1 passed in C:\xampp\htdocs\handel\wp-content\themes\handel\functions.php on line 7 and at least 2 expected in C:\xampp\htdocs\handel\wp-includes\plugin.php:409
+Stack trace:
+#0 C:\xampp\htdocs\handel\wp-content\themes\handel\functions.php(7): add_action('dento_da_home')
+#1 C:\xampp\htdocs\handel\wp-settings.php(525): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\handel\wp-config.php(95): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\handel\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\handel\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\handel\index.php(17): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown, em C:\xampp\htdocs\handel\wp-includes\plugin.php, na linha 409
+
+2020-12-09T14:00:09+00:00 CRITICAL syntax error, unexpected token "?", em C:\xampp\htdocs\handel\wp-content\themes\handel\page-home.php, na linha 13
+
+2020-12-09T14:00:23+00:00 CRITICAL syntax error, unexpected token "<", em C:\xampp\htdocs\handel\wp-content\themes\handel\page-home.php, na linha 13
+
+2020-12-09T14:05:30+00:00 CRITICAL syntax error, unexpected token "echo", em C:\xampp\htdocs\handel\wp-content\themes\handel\functions.php, na linha 11
+
+2020-12-09T18:22:28+00:00 CRITICAL syntax error, unexpected token "}", em C:\xampp\htdocs\handel\wp-content\themes\handel\functions.php, na linha 10
+
+2020-12-09T18:22:34+00:00 CRITICAL syntax error, unexpected token "}", em C:\xampp\htdocs\handel\wp-content\themes\handel\functions.php, na linha 10
+
+2020-12-09T18:23:05+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($function) must be a valid callback, function "handel_add_woocommerce_support" not found or invalid function name in C:\xampp\htdocs\handel\wp-includes\class-wp-hook.php:287
+Stack trace:
+#0 C:\xampp\htdocs\handel\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#1 C:\xampp\htdocs\handel\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#2 C:\xampp\htdocs\handel\wp-settings.php(535): do_action('after_setup_the...')
+#3 C:\xampp\htdocs\handel\wp-config.php(95): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\handel\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\handel\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\handel\wp-admin\options.php(19): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown, em C:\xampp\htdocs\handel\wp-includes\class-wp-hook.php, na linha 287
+
+2020-12-09T18:23:15+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($function) must be a valid callback, function "handel_add_woocommerce_support" not found or invalid function name in C:\xampp\htdocs\handel\wp-includes\class-wp-hook.php:287
+Stack trace:
+#0 C:\xampp\htdocs\handel\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#1 C:\xampp\htdocs\handel\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#2 C:\xampp\htdocs\handel\wp-settings.php(535): do_action('after_setup_the...')
+#3 C:\xampp\htdocs\handel\wp-config.php(95): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\handel\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\handel\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\handel\wp-admin\options.php(19): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown, em C:\xampp\htdocs\handel\wp-includes\class-wp-hook.php, na linha 287
+
+2020-12-09T18:23:59+00:00 CRITICAL Uncaught Error: Call to undefined function add_theme_suport() in C:\xampp\htdocs\handel\wp-content\themes\handel\functions.php:3
+Stack trace:
+#0 C:\xampp\htdocs\handel\wp-includes\class-wp-hook.php(287): handel_add_woocommerce_support('')
+#1 C:\xampp\htdocs\handel\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\handel\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\handel\wp-settings.php(535): do_action('after_setup_the...')
+#4 C:\xampp\htdocs\handel\wp-config.php(95): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\handel\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\handel\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\handel\wp-admin\options.php(19): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown, em C:\xampp\htdocs\handel\wp-content\themes\handel\functions.php, na linha 3
+
+2020-12-09T19:24:51+00:00 CRITICAL syntax error, unexpected identifier "para", em C:\xampp\htdocs\handel\wp-content\themes\handel\functions.php, na linha 12
+
+2020-12-09T19:24:59+00:00 CRITICAL syntax error, unexpected identifier "para", em C:\xampp\htdocs\handel\wp-content\themes\handel\functions.php, na linha 12
+
+2020-12-09T19:25:20+00:00 CRITICAL syntax error, unexpected identifier "um", em C:\xampp\htdocs\handel\wp-content\themes\handel\functions.php, na linha 15
+
+2020-12-09T20:16:12+00:00 CRITICAL Uncaught Error: Call to undefined function get_stylesheet_directory_url() in C:\xampp\htdocs\handel\wp-content\themes\handel\header.php:13
+Stack trace:
+#0 C:\xampp\htdocs\handel\wp-includes\template.php(730): require_once()
+#1 C:\xampp\htdocs\handel\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\handel\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\handel\wp-content\plugins\woocommerce\templates\archive-product.php(20): get_header('shop')
+#4 C:\xampp\htdocs\handel\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\handel\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\handel\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown, em C:\xampp\htdocs\handel\wp-content\themes\handel\header.php, na linha 13
+

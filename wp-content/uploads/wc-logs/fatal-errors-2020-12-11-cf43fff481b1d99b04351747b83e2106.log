@@ -1,0 +1,89 @@
+2020-12-11T18:26:39+00:00 CRITICAL Uncaught Error: Call to undefined function get_cart_contents_count() in C:\xampp\htdocs\handel\wp-content\themes\handel\header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\handel\wp-includes\template.php(730): require_once()
+#1 C:\xampp\htdocs\handel\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\handel\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\handel\wp-content\themes\handel\index.php(1): get_header()
+#4 C:\xampp\htdocs\handel\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\handel\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\handel\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown, em C:\xampp\htdocs\handel\wp-content\themes\handel\header.php, na linha 15
+
+2020-12-11T18:26:39+00:00 CRITICAL Uncaught Error: Call to undefined function get_cart_contents_count() in C:\xampp\htdocs\handel\wp-content\themes\handel\header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\handel\wp-includes\template.php(730): require_once()
+#1 C:\xampp\htdocs\handel\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\handel\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\handel\wp-content\themes\handel\index.php(1): get_header()
+#4 C:\xampp\htdocs\handel\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\handel\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\handel\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown, em C:\xampp\htdocs\handel\wp-content\themes\handel\header.php, na linha 15
+
+2020-12-11T18:26:58+00:00 CRITICAL Uncaught Error: Undefined constant "get_cart_contents_count" in C:\xampp\htdocs\handel\wp-content\themes\handel\header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\handel\wp-includes\template.php(730): require_once()
+#1 C:\xampp\htdocs\handel\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\handel\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\handel\wp-content\themes\handel\index.php(1): get_header()
+#4 C:\xampp\htdocs\handel\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\handel\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\handel\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown, em C:\xampp\htdocs\handel\wp-content\themes\handel\header.php, na linha 15
+
+2020-12-11T18:26:59+00:00 CRITICAL Uncaught Error: Undefined constant "get_cart_contents_count" in C:\xampp\htdocs\handel\wp-content\themes\handel\header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\handel\wp-includes\template.php(730): require_once()
+#1 C:\xampp\htdocs\handel\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\handel\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\handel\wp-content\themes\handel\index.php(1): get_header()
+#4 C:\xampp\htdocs\handel\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\handel\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\handel\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown, em C:\xampp\htdocs\handel\wp-content\themes\handel\header.php, na linha 15
+
+2020-12-11T18:27:52+00:00 CRITICAL syntax error, unexpected variable "$cart_count", em C:\xampp\htdocs\handel\wp-content\themes\handel\header.php, na linha 15
+
+2020-12-11T18:28:55+00:00 CRITICAL Uncaught Error: Undefined constant "WC" in C:\xampp\htdocs\handel\wp-content\themes\handel\header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\handel\wp-includes\template.php(730): require_once()
+#1 C:\xampp\htdocs\handel\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\handel\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\handel\wp-content\themes\handel\index.php(1): get_header()
+#4 C:\xampp\htdocs\handel\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\handel\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\handel\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown, em C:\xampp\htdocs\handel\wp-content\themes\handel\header.php, na linha 15
+
+2020-12-11T18:28:56+00:00 CRITICAL Uncaught Error: Undefined constant "WC" in C:\xampp\htdocs\handel\wp-content\themes\handel\header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\handel\wp-includes\template.php(730): require_once()
+#1 C:\xampp\htdocs\handel\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\handel\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\handel\wp-content\themes\handel\index.php(1): get_header()
+#4 C:\xampp\htdocs\handel\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\handel\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\handel\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown, em C:\xampp\htdocs\handel\wp-content\themes\handel\header.php, na linha 15
+
+2020-12-11T18:29:37+00:00 CRITICAL syntax error, unexpected token "<", expecting end of file, em C:\xampp\htdocs\handel\wp-content\themes\handel\header.php, na linha 15
+
+2020-12-11T20:11:35+00:00 CRITICAL syntax error, unexpected token "}", em C:\xampp\htdocs\handel\wp-content\themes\handel\page-home.php, na linha 18
+
+2020-12-11T20:22:25+00:00 CRITICAL Uncaught Error: Call to undefined function image_id() in C:\xampp\htdocs\handel\wp-content\themes\handel\page-home.php:19
+Stack trace:
+#0 C:\xampp\htdocs\handel\wp-content\themes\handel\page-home.php(25): format_products(Array)
+#1 C:\xampp\htdocs\handel\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\handel\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\handel\index.php(17): require('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown, em C:\xampp\htdocs\handel\wp-content\themes\handel\page-home.php, na linha 19
+
+2020-12-11T20:27:03+00:00 CRITICAL syntax error, unexpected token "[", expecting ")", em C:\xampp\htdocs\handel\wp-content\themes\handel\functions.php, na linha 15
+

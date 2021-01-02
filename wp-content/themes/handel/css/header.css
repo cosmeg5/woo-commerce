@@ -1,0 +1,115 @@
+.header {
+    margin: 30px auto;
+    padding: 0 20px;
+    display: grid;
+    grid-template-columns: minmax(160px, auto) minmax(auto, 600px) minmax(270px, auto);
+    justify-content: space-between;
+    align-items: center;
+    grid-gap: 40px;
+}
+@media only screen and (max-width:800px) {
+    .header {
+        grid-template-columns: 1fr;
+        grid-gap: 20px;
+    }
+}
+
+.busca form {
+    display: grid;
+}
+.busca #s {
+    border: 2px solid #000;
+    font-size: 1.125rem;
+    border-radius: 4px;
+    padding: 12px 40px 12px 20px;
+    grid-area: 1/1;
+}
+.busca #searchbutton {
+    grid-area: 1/1;
+    width: 50px;
+    border: none;
+    cursor: pointer;
+    justify-self: end;
+    text-indent: -100px;
+    background: transparent url('../img/icons/search.svg') no-repeat center center;
+}
+
+.conta {
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: auto auto;
+    justify-content: start;
+}
+@media only screen and (max-width:800px) {
+    .conta { 
+        grid-gap: 60px;
+    }
+}
+
+.conta .minha-conta,
+.conta .carrinho {
+    padding: 5px 0px 5px 34px;
+    background-repeat:  no-repeat;
+    background-position: center left;
+}
+.conta .carrinho {
+    background-image: url('../img/icons/cart.svg');
+}
+.conta .minha-conta {
+    background-image: url('../img/icons/user.svg');
+}
+.carrinho-count {
+    display: block;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    background-color: orangered;
+    color: #fff;
+    text-align: center;
+}
+
+/*Menu*/
+.menu-categorias {
+    background-color: #000;
+    padding: 5px;
+}
+.menu-categorias ul {
+    display: flex;
+    justify-content: center;
+}
+.menu-categoriasul ul li {
+    margin: 15px 10px;
+}
+.menu-categorias a {
+    color: #fff;
+    padding: 15px;
+    margin: 0;
+}
+.menu-categorias a:hover {
+    color: orangered;
+}
+.sub-menu a{
+    display: none;  
+}
+.menu-categorias a:hover + .sub-menu a{
+    display: block;
+    padding: 10px;
+}
+.sub-menu a:hover{
+    display: block;
+    padding: 10px;
+}
+.current-menu-item {
+    color: orangered;
+}
+@media only screen and (max-width:800px) {
+    .menu-categorias {
+        position: relative;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        -ms-overflow-style: -ms-autohiding-scrollbar;
+    }
+    .menu-categorias ul { 
+        justify-content: initial;
+    }
+} 

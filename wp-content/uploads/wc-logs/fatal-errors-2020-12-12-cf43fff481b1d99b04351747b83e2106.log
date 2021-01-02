@@ -1,0 +1,168 @@
+2020-12-12T10:47:23+00:00 CRITICAL Uncaught Error: Undefined constant "get_stylesheet_directory_uri" in C:\xampp\htdocs\handel\wp-content\themes\handel\footer.php:8
+Stack trace:
+#0 C:\xampp\htdocs\handel\wp-includes\template.php(730): require_once()
+#1 C:\xampp\htdocs\handel\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\handel\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\handel\wp-content\themes\handel\page-home.php(33): get_footer()
+#4 C:\xampp\htdocs\handel\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\handel\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\handel\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown, em C:\xampp\htdocs\handel\wp-content\themes\handel\footer.php, na linha 8
+
+2020-12-12T10:47:24+00:00 CRITICAL Uncaught Error: Undefined constant "get_stylesheet_directory_uri" in C:\xampp\htdocs\handel\wp-content\themes\handel\footer.php:8
+Stack trace:
+#0 C:\xampp\htdocs\handel\wp-includes\template.php(730): require_once()
+#1 C:\xampp\htdocs\handel\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\handel\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\handel\wp-content\themes\handel\index.php(11): get_footer()
+#4 C:\xampp\htdocs\handel\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\handel\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\handel\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown, em C:\xampp\htdocs\handel\wp-content\themes\handel\footer.php, na linha 8
+
+2020-12-12T10:48:13+00:00 CRITICAL Uncaught Error: Undefined constant "get_stylesheet_directory_uri" in C:\xampp\htdocs\handel\wp-content\themes\handel\footer.php:8
+Stack trace:
+#0 C:\xampp\htdocs\handel\wp-includes\template.php(730): require_once()
+#1 C:\xampp\htdocs\handel\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\handel\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\handel\wp-content\themes\handel\page-home.php(33): get_footer()
+#4 C:\xampp\htdocs\handel\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\handel\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\handel\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown, em C:\xampp\htdocs\handel\wp-content\themes\handel\footer.php, na linha 8
+
+2020-12-12T10:48:13+00:00 CRITICAL Uncaught Error: Undefined constant "get_stylesheet_directory_uri" in C:\xampp\htdocs\handel\wp-content\themes\handel\footer.php:8
+Stack trace:
+#0 C:\xampp\htdocs\handel\wp-includes\template.php(730): require_once()
+#1 C:\xampp\htdocs\handel\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\handel\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\handel\wp-content\themes\handel\index.php(11): get_footer()
+#4 C:\xampp\htdocs\handel\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\handel\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\handel\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown, em C:\xampp\htdocs\handel\wp-content\themes\handel\footer.php, na linha 8
+
+2020-12-12T10:48:27+00:00 CRITICAL Uncaught Error: Undefined constant "get_stylesheet_directory_uri" in C:\xampp\htdocs\handel\wp-content\themes\handel\footer.php:8
+Stack trace:
+#0 C:\xampp\htdocs\handel\wp-includes\template.php(730): require_once()
+#1 C:\xampp\htdocs\handel\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\handel\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\handel\wp-content\themes\handel\page-home.php(33): get_footer()
+#4 C:\xampp\htdocs\handel\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\handel\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\handel\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown, em C:\xampp\htdocs\handel\wp-content\themes\handel\footer.php, na linha 8
+
+2020-12-12T10:48:27+00:00 CRITICAL Uncaught Error: Undefined constant "get_stylesheet_directory_uri" in C:\xampp\htdocs\handel\wp-content\themes\handel\footer.php:8
+Stack trace:
+#0 C:\xampp\htdocs\handel\wp-includes\template.php(730): require_once()
+#1 C:\xampp\htdocs\handel\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\handel\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\handel\wp-content\themes\handel\index.php(11): get_footer()
+#4 C:\xampp\htdocs\handel\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\handel\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\handel\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown, em C:\xampp\htdocs\handel\wp-content\themes\handel\footer.php, na linha 8
+
+2020-12-12T10:48:47+00:00 CRITICAL Uncaught Error: Undefined constant "get_stylesheet_directory_uri" in C:\xampp\htdocs\handel\wp-content\themes\handel\footer.php:8
+Stack trace:
+#0 C:\xampp\htdocs\handel\wp-includes\template.php(730): require_once()
+#1 C:\xampp\htdocs\handel\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\handel\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\handel\wp-content\themes\handel\page-home.php(33): get_footer()
+#4 C:\xampp\htdocs\handel\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\handel\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\handel\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown, em C:\xampp\htdocs\handel\wp-content\themes\handel\footer.php, na linha 8
+
+2020-12-12T10:48:47+00:00 CRITICAL Uncaught Error: Undefined constant "get_stylesheet_directory_uri" in C:\xampp\htdocs\handel\wp-content\themes\handel\footer.php:8
+Stack trace:
+#0 C:\xampp\htdocs\handel\wp-includes\template.php(730): require_once()
+#1 C:\xampp\htdocs\handel\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\handel\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\handel\wp-content\themes\handel\index.php(11): get_footer()
+#4 C:\xampp\htdocs\handel\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\handel\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\handel\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown, em C:\xampp\htdocs\handel\wp-content\themes\handel\footer.php, na linha 8
+
+2020-12-12T10:49:09+00:00 CRITICAL Uncaught Error: Undefined constant "get_stylesheet_directory_uri" in C:\xampp\htdocs\handel\wp-content\themes\handel\footer.php:8
+Stack trace:
+#0 C:\xampp\htdocs\handel\wp-includes\template.php(730): require_once()
+#1 C:\xampp\htdocs\handel\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\handel\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\handel\wp-content\themes\handel\page-home.php(33): get_footer()
+#4 C:\xampp\htdocs\handel\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\handel\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\handel\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown, em C:\xampp\htdocs\handel\wp-content\themes\handel\footer.php, na linha 8
+
+2020-12-12T10:49:10+00:00 CRITICAL Uncaught Error: Undefined constant "get_stylesheet_directory_uri" in C:\xampp\htdocs\handel\wp-content\themes\handel\footer.php:8
+Stack trace:
+#0 C:\xampp\htdocs\handel\wp-includes\template.php(730): require_once()
+#1 C:\xampp\htdocs\handel\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\handel\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\handel\wp-content\themes\handel\index.php(11): get_footer()
+#4 C:\xampp\htdocs\handel\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\handel\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\handel\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown, em C:\xampp\htdocs\handel\wp-content\themes\handel\footer.php, na linha 8
+
+2020-12-12T10:50:49+00:00 CRITICAL Uncaught Error: Undefined constant "get_stylesheet_directory_uri" in C:\xampp\htdocs\handel\wp-content\themes\handel\footer.php:8
+Stack trace:
+#0 C:\xampp\htdocs\handel\wp-includes\template.php(730): require_once()
+#1 C:\xampp\htdocs\handel\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\handel\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\handel\wp-content\themes\handel\page-home.php(33): get_footer()
+#4 C:\xampp\htdocs\handel\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\handel\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\handel\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown, em C:\xampp\htdocs\handel\wp-content\themes\handel\footer.php, na linha 8
+
+2020-12-12T10:50:50+00:00 CRITICAL Uncaught Error: Undefined constant "get_stylesheet_directory_uri" in C:\xampp\htdocs\handel\wp-content\themes\handel\footer.php:8
+Stack trace:
+#0 C:\xampp\htdocs\handel\wp-includes\template.php(730): require_once()
+#1 C:\xampp\htdocs\handel\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\handel\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\handel\wp-content\themes\handel\index.php(11): get_footer()
+#4 C:\xampp\htdocs\handel\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\handel\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\handel\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown, em C:\xampp\htdocs\handel\wp-content\themes\handel\footer.php, na linha 8
+
+2020-12-12T10:51:16+00:00 CRITICAL Uncaught Error: Undefined constant "get_template_directory_uri" in C:\xampp\htdocs\handel\wp-content\themes\handel\footer.php:8
+Stack trace:
+#0 C:\xampp\htdocs\handel\wp-includes\template.php(730): require_once()
+#1 C:\xampp\htdocs\handel\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\handel\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\handel\wp-content\themes\handel\page-home.php(33): get_footer()
+#4 C:\xampp\htdocs\handel\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\handel\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\handel\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown, em C:\xampp\htdocs\handel\wp-content\themes\handel\footer.php, na linha 8
+
+2020-12-12T10:51:16+00:00 CRITICAL Uncaught Error: Undefined constant "get_template_directory_uri" in C:\xampp\htdocs\handel\wp-content\themes\handel\footer.php:8
+Stack trace:
+#0 C:\xampp\htdocs\handel\wp-includes\template.php(730): require_once()
+#1 C:\xampp\htdocs\handel\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\handel\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\handel\wp-content\themes\handel\index.php(11): get_footer()
+#4 C:\xampp\htdocs\handel\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\handel\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\handel\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown, em C:\xampp\htdocs\handel\wp-content\themes\handel\footer.php, na linha 8
+
